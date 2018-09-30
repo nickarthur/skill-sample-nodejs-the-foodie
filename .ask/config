@@ -1,6 +1,6 @@
 {
   "deploy_settings": {
-    "default": {
+    "master": {
       "skill_id": "",
       "was_cloned": false,
       "merge": {
@@ -8,7 +8,7 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-skill-sample-nodejs-the-foodie-default"
+                "uri": "ask-custom-foodie-master"
               }
             }
           }
